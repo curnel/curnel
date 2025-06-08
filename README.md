@@ -14,12 +14,12 @@
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=curnel&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 <p align="center">
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,rust,java,html,css,js,md,md,latex,regex,mermaid,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,rust,java,html,css,js,md&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <a href="https://github.com/curnel"><img src="https://img.shields.io/badge/GitHub-curnel-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/curnel"><img src="https://img.shields.io/badge/Gitee-curnel-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/3546384120678937"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/3546384120678937"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-curnel-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
 </p>
 
 <p align="center">
